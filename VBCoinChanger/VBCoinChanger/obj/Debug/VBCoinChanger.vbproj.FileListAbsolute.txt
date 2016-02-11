@@ -1,0 +1,20 @@
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.exe.config
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.exe
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.pdb
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.xml
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.frmCoinConverter.resources
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.Resources.resources
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.vbproj.GenerateResource.Cache
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.exe
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.xml
+J:\821 IntroToProg\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.pdb
+F:\821\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.exe.config
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.exe
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.xml
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.pdb
+F:\821\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.exe
+F:\821\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.pdb
+F:\821\VBCoinChanger\VBCoinChanger\bin\Debug\VBCoinChanger.xml
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.frmCoinConverter.resources
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.Resources.resources
+F:\821\VBCoinChanger\VBCoinChanger\obj\Debug\VBCoinChanger.vbproj.GenerateResource.Cache
